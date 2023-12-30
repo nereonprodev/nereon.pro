@@ -1,4 +1,4 @@
-  .myButton {
+.myButton {
 	background-color:#9653ff;
 	border-radius:3px;
 	display:inline-block;
@@ -27,13 +27,13 @@
       margin: 0px 3%;
   }
   
-.singleanim-info&gt;div {
+.singleanim-info>div {
     border-bottom: 1px solid #8937e324;
     margin: 0 0 11px;
     padding: 0 0 11px;
 }
 
-.singleanim-info&gt;div span {
+.singleanim-info>div span {
     display: inline-block;
     width: 150px;
 }
